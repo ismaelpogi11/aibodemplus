@@ -1,0 +1,15 @@
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Infrastructure.deps.json
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Infrastructure.dll
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Infrastructure.pdb
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Application.dll
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Domain.dll
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Application.pdb
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Domain.pdb
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Medobia.Infrastructure.dll
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\obj\Debug\netcoreapp3.1\Medobia.Infrastructure.pdb
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Infrastructure.runtimeconfig.json
+C:\Users\Ace\source\repos\Medobia\src\Infrastructure\bin\Debug\netcoreapp3.1\Medobia.Infrastructure.runtimeconfig.dev.json

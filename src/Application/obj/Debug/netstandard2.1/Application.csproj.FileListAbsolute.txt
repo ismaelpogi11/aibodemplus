@@ -1,0 +1,11 @@
+C:\Users\Ace\source\repos\Medobia\src\Application\bin\Debug\netstandard2.1\Medobia.Application.deps.json
+C:\Users\Ace\source\repos\Medobia\src\Application\bin\Debug\netstandard2.1\Medobia.Application.dll
+C:\Users\Ace\source\repos\Medobia\src\Application\bin\Debug\netstandard2.1\Medobia.Application.pdb
+C:\Users\Ace\source\repos\Medobia\src\Application\bin\Debug\netstandard2.1\Medobia.Domain.dll
+C:\Users\Ace\source\repos\Medobia\src\Application\bin\Debug\netstandard2.1\Medobia.Domain.pdb
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Medobia.Application.dll
+C:\Users\Ace\source\repos\Medobia\src\Application\obj\Debug\netstandard2.1\Medobia.Application.pdb

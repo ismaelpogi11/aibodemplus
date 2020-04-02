@@ -1,0 +1,35 @@
+﻿@page "/Login"
+@using WebBlazorUI.Commands.Auth
+@using WebBlazorUI.Data
+
+@inject IAuthService _authService
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject Blazored.SessionStorage.ISessionStorageService _sessionStorage
+
+<h3>Login</h3>
+
+<EditForm Model="@command" OnValidSubmit="@LoginAsync">
+    <input type="email" @bind="command.Email" />
+    <input type="password" @bind="command.Password" />
+    <input type="submit" value="Login" />
+</EditForm>
+
+@code {
+
+    private LoginCommand command;
+
+    protected override Task OnInitializedAsync()
+    {
+        command = new LoginCommand();
+        return base.OnInitializedAsync();
+    }
+
+    private async Task LoginAsync()
+    {
+        var response = await _authService.LoginAsync(command);
+
+        ((AuthStateProvider)AuthenticationStateProvider).SetUserAsAuthenticated("");
+
+        await _sessionStorage.SetItemAsync("emailAddress", "");
+    }
+}
